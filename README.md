@@ -16,4 +16,4 @@ This was part of my master's program for Electronic Engineering for Intelligent 
 - Stable yaw-rate and lateral velocity response
 
   ## Author
--Kartik Purushottam Kanchan
+  Kartik Purushottam Kanchan
